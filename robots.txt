@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evgeniydavidov2026.github.io/binary-trading-tips-yuhw/sitemap.xml
